@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tech Mentor"
+  short_description: "Build simple, polished small projects."
+  default_prompt: "Use $tech-mentor to create a simple, polished project and provide concise usage steps."
